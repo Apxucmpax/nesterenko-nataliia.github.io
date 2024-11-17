@@ -86,7 +86,7 @@ header .avatar {
   width: 220px;
   height: 220px;
   border-radius: 50%;
-  background: url(./avatar1.jpg) no-repeat top center;
+  background: url(./avatar3.jpg) no-repeat top center;
   background-size: cover;
 }
 header .switcher {
