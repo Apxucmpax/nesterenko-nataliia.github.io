@@ -35,7 +35,7 @@ h2 {
 }
 p {
   font-size: 17px !important;
-  line-height: 21px;
+  line-height: 27px;
 }
 /*reset style for a*/
 a {
@@ -235,10 +235,13 @@ main {
   align-items: center;
 }
 .fs15 {
-  font-size: 15px;
+  font-size: 15px !important;
+}
+.fs14 {
+  font-size: 14px !important;
 }
 .fs12 {
-  font-size: 12px;
+  font-size: 12px !important;
 }
 .qr {
   display: flex;
